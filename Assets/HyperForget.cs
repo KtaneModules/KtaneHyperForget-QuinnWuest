@@ -381,7 +381,7 @@ public class HyperForget : MonoBehaviour
     }
 
 #pragma warning disable 0414
-    private readonly string TwitchHelpMessage = "";
+    private readonly string TwitchHelpMessage = "!{0} press ++-+ -+-+ +-+- [Press the vertices at those positions. Order of axes is X, Y, Z, W.]";
 #pragma warning restore 0414
 
     private IEnumerator ProcessTwitchCommand(string command)

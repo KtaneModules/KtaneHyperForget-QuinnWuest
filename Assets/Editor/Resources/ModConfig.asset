@@ -13,14 +13,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: HyperForget
   title: HyperForget
-  author: Ferd
-  description: 'You''re telling me I have to stare at this 4-dimensional creature
-    throughout the whole bomb?
-
-
-    HyperForget Module, by ferd
-
-    Module ID: HyperForget'
+  author: ferd
+  description: "You're telling me I have to stare at this 4-dimensional creature throughout
+    the whole bomb?\r\n\r\nThis is a reupload of ferd's module, being migrated to
+    Quinn Wuest's steam account. Unsubscribe from the old version here:\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2797461640\r\n\r\n[url=https://ktane.timwi.de/HTML/HyperForget.html]Manual
+    HTML[/url]\r\n[url=https://ktane.timwi.de/PDF/HyperForget.pdf]Manual PDF[/url]"
   version: 1.0
   outputFolder: build
   previewImage: {fileID: 2800000, guid: fe192e05578d6da41a18d92c01a6c82a, type: 3}
